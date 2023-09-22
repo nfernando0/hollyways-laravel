@@ -1,0 +1,79 @@
+body {
+    background-color: #E8E8E8 !important;
+}
+.navbar {
+    background-color: #C32424;
+    color: #fff;
+}
+
+.navbar .login{
+    color: #fff !important;
+    padding: 0.5rem 1rem !important;
+}
+
+.navbar .register {
+    color: #C32424 !important;
+    background-color: #ffffff;
+    border-radius: 0.5rem;
+}
+
+.home {
+    position: relative;
+    height: 35rem;
+    background-color: #C32424;
+}
+.home .gambar-1 {
+    right: 0;
+    position: absolute;
+}
+.home h1, .home p {
+    color: #fff;
+}
+.home p {
+    max-width: 30rem;
+    margin: 2rem 0 !important;
+}
+
+.home .btn-donate {
+    background-color: #fff;
+    color: #C32424;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    font-weight: bold;
+}
+.home-2 {
+    position: relative;
+}
+.home-2 .gambar-2 {
+    position: absolute;
+    left: 0;
+    top: -10rem;
+}
+.home-2 h1 {
+    margin-top: 8rem;
+}
+.donate {
+    position: relative;
+    margin-top: 10rem;
+}
+
+.donate h1 {
+    text-align: center;
+    color: #C32424;
+}
+
+.donate .card p {
+    color: #ddd;
+}
+
+.modal .login, .modal .register {
+    background-color: #C32424;
+    color: #fff;
+}
+.modal .login:hover,
+ .modal .register:hover {
+    background-color: #C32424;
+    color: #fff;
+ }
+
